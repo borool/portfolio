@@ -73,7 +73,7 @@ The dropdown animation works after you set a link to the script in a specific pa
 How to setup the animation in the project:
 
 1. Enter the text for the dropdown in the **Design** tab.
-   ![](C:\Users\user\Documents\ShareX\Screenshots\2020-06\RoboHTML_Pu4imtE5x8.png)
+   ![design_tab](img/dropdowntext.png)
 
 2. Insert the image for the collapsed dropdown by selecting **Insert** > **Image**.
 
@@ -82,7 +82,7 @@ How to setup the animation in the project:
 3. Select the dropdown text together with the image.
 
 4. Go to the **HTML** tab.
-   ![](C:\Users\user\Documents\ShareX\Screenshots\2020-06\AcroRd32_gMYDDDYIFR.png)
+   ![htmltab](img/)
 
 5. Enter the following values for the script:
 
