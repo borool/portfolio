@@ -1,6 +1,6 @@
 # Animated dropdowns in Adobe RoboHelp
 
-This guide shows how to animate dropdowns in Adobe RoboHelp. With dropdowns you can fit additional content like tables or descriptive lists and reduce page space. Drop-down text elements in Adobe RoboHelp are static by default. You can animate dropdowns with JavaScript to make them look more interactive.
+This guide shows how to animate dropdowns in Adobe RoboHelp. With dropdowns you can fit additional content like tables or descriptive lists and reduce page space. Dropdown text elements in Adobe RoboHelp are static by default. You can animate dropdowns with JavaScript to make them look more interactive.
 
 The script was developed by William Wan Veelden and originally described by Peter Granige. You can find the original guide [here](http://www.grainge.org/pages/authoring/twisty/twisty.htm).
 
