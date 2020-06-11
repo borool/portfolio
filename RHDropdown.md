@@ -19,7 +19,7 @@ Let's breakdown the script modification into 3 steps:
 
 ## Editing the script
 
-The script is stored in a JavaScript file which should be located in the project
+The script is stored in a JavaScript file which should be located in the project.
 
 How to add the script to a project:
 
