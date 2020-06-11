@@ -4,7 +4,7 @@ This guide shows how to animate dropdowns in Adobe RoboHelp. With dropdowns you 
 
 The script was developed by William Wan Veelden and originally described by Peter Granige. You can find the original guide [here](http://www.grainge.org/pages/authoring/twisty/twisty.htm).
 
-I rewrote the original guide to serve as an example of my writing and adapted it for my team in Russian. [Link to the Russian version](https://drive.google.com/drive/folders/1dwZiilXx_kYXNWrVVPnEjzm5bghh0UMS?usp=sharing).
+I rewrote the original guide to serve as an example of my writing and adapted it for my team in Russian. [Link to the Russian version](https://drive.google.com/file/d/1vUUZudliSnd4n-I0Nd208lO-E1LaPE8J/view).
 
 The main differences of this guide:
 
